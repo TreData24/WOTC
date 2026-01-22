@@ -69,6 +69,10 @@ Returns ownership information accurately
 - Model: dbmdz/bert-large-cased-finetuned-conll03-english
 - Data Source: Web-scraped property listings from defendants’
 
+# Data Source
+Defendants & DC Addresses Dataset: Defendants&DC_Addresses.xlsx Contains property addresses and associated defendants scraped from rental websites and other sources.
+
+
 # Work Cited:
 1. DCist. "DC Attorney General Sues Landlords Over Rent Practices." DCist, 
 dcist.com/story/23/11/01/dc-attorney-general-lawsuit-landlords-realpage/rent.
